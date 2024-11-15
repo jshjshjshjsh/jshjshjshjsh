@@ -1,11 +1,13 @@
 ## Hi there 👋
+
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/farms/jshjshjshjsh"
-    width="840"
-    height="400"
+    src="https://render.gitanimals.org/lines/jshjshjshjsh"
+    width="600"
+    height="120"
   />
 </a>
+  
 <!--
 **jshjshjshjsh/jshjshjshjsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
