@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:cj456456@gmail.com"> 
 </a>
 
-## 📌 Lastest Velog Post
+## 📌 Latest Velog Post
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jshjshjshjsh)](https://velog.io/@jshjshjshjsh/posts)
 
