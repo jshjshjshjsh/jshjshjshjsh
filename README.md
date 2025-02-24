@@ -33,7 +33,8 @@
       
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jshjshjshjsh)](https://velog.io/@jshjshjshjsh/posts)
 
-<div align= "center">  </div> 
+<div align= "center">
+<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> </h2> <br> 
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/jshjshjshjsh?pet-id=645156883480435970"
