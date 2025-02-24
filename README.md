@@ -1,15 +1,11 @@
 ## This is SeungHyun Cho's Channel 
 
 
-
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/jshjshjshjsh?pet-id=645156883480435970"
-    width="600"
-    height="120"
-  />
-</a>
 <div align= "center"> 
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jshjshjshjsh&theme=calm-pink" alt="GitHub Streak" /></a>
+    </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
@@ -32,11 +28,15 @@
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
-      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jshjshjshjsh&theme=calm-pink" alt="GitHub Streak" /></a>
-    </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Lastest Velog Post </h2> <br> 
       
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jshjshjshjsh)](https://velog.io/@jshjshjshjsh/posts)
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/jshjshjshjsh?pet-id=645156883480435970"
+    width="600"
+    height="120"
+  />
+</a>
