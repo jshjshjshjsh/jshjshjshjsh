@@ -34,9 +34,9 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
-          [![GitHub Streak](https://streak-stats.demolab.com?user=jshjshjshjsh&theme=calm-pink)](https://git.io/streak-stats)
     </div>
       
+          [![GitHub Streak](https://streak-stats.demolab.com?user=jshjshjshjsh&theme=calm-pink)](https://git.io/streak-stats)
   
 <!--
 **jshjshjshjsh/jshjshjshjsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
