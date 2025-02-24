@@ -1,4 +1,4 @@
-## Hi there 👋
+## This is SeungHyun Cho's Channel 
 
 
 
@@ -34,10 +34,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
-          <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=jshjshjshjsh&show_icons=true&theme=calm_pink"
-         /> </div> 
-          <div align= "center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jshjshjshjsh&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-           /> </div> 
+          [![GitHub Streak](https://streak-stats.demolab.com?user=jshjshjshjsh&theme=calm-pink)](https://git.io/streak-stats)
     </div>
       
   
