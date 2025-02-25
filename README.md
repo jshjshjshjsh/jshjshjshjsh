@@ -6,6 +6,14 @@
 
 **경성대학교 개발운영팀**(2024.02 ~) - 
 
+## 📑 자격증
+### 네트워크 관리사 2급 
+한국정보통신자격협회(2018.07)
+### 정보처리기사 
+한국산업인력공단(2023.11)
+### AWS Solution Architect Associate(SAA)
+Amazon Web Services(2025.02)
+
 ## ⚔ Skills
 <div style="margin: 0 auto; " > <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
