@@ -1,4 +1,4 @@
-## 😗 This is SeungHyun Cho's Channel
+## 😗 This is SeungHyun Cho's Github
 
 **경성대학교 컴퓨터공학과**(2017.03 ~ 2024.02)
 
