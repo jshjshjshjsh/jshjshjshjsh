@@ -15,7 +15,9 @@
 Amazon Web Services(2025.02)
 
 ## ⚔ Skills
-<div style="margin: 0 auto; " > <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+<div style="margin: 0 auto; " > 
+      <img src="https://img.shields.io/badge/amazonwebservices-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+      <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
