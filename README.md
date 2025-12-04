@@ -13,6 +13,8 @@
 한국산업인력공단(2023.11)
 ### AWS Solution Architect Associate(SAA)
 Amazon Web Services(2025.02)
+### Certified Kubernetes Administrator(CKA)
+The Linux Fundation(2025.11)
 
 ## ⚔ Skills
 <div style="margin: 0 auto; " > 
