@@ -46,10 +46,15 @@ HashiCorp(2025.12)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jshjshjshjsh)](https://velog.io/@jshjshjshjsh/posts)
 
 <a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/jshjshjshjsh" width="1000" height="180"/>
+</a>
+
+<!--
+<a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/jshjshjshjsh?pet-id=645156883480435970"
     width="600"
     height="120"
   />
 </a>
-
+-->
