@@ -15,6 +15,8 @@
 Amazon Web Services(2025.02)
 ### Certified Kubernetes Administrator(CKA)
 The Linux Fundation(2025.11)
+### Terraform Associate
+HashiCorp(2025.12)
 
 ## ⚔ Skills
 <div style="margin: 0 auto; " > 
