@@ -43,7 +43,10 @@ HashiCorp(2025.12)
 
 ## 📌 Latest Velog Post
 
+<!--
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jshjshjshjsh)](https://velog.io/@jshjshjshjsh/posts)
+-->
+[![velog](https://velo-card.profilecard.workers.dev/api?name=jshjshjshjsh&layout=thumbnail&count=4&width=1000&tags=)](https://velog.io/@jshjshjshjsh)
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/jshjshjshjsh" width="1000" height="180"/>
